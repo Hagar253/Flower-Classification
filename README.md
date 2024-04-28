@@ -2,6 +2,7 @@
 
 ### Introduction
 • In this project we are going to be classifying 104 different types of flowers.
+
 • We will use Convolutional Neural Network; first, we will create our own simple CNN Model then we will use 2 pretrained famous CNN architectures.
 • We chose to work with TensorFlow since it provides various methods which will help in preprocessing our data and training our models.
 • We will save our weights with each epoch for further training and evaluation.
